@@ -10,5 +10,5 @@ let package = Package(
     targets: [
         .target(name: "SwiftPDFGenerator", path: "SwiftPDFGenerator"),
     ],
-    swiftLanguageVersions: [.v5]
+    swiftLanguageVersions: [.v4]
 )
